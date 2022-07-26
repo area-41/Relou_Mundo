@@ -18,8 +18,11 @@ Fim da página!<br/>
 </head><br/>
 <body>E aqui, começamos o corpo:<br/>
 
-<strong>Frase com Negrito.</strong>
+<strong>Frase com Negrito.</strong><br/>
 <q>Com uma curta chamada entre aspas</q>
+
+<dfn>Um exemplo de DEFINITION</dfn><br/>
+<code>E outro de code</code><br/>
 
 ![image](https://user-images.githubusercontent.com/87396846/180835700-69defcb0-f689-4820-a9d7-d8704d8fc00d.png)<br/>
 Fim do corpo!<br/>
