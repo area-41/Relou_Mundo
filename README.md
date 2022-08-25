@@ -1,15 +1,20 @@
-# HTML
-Olá, aqui abordaremos algumas funcionalidades do código HTML.<br/>
-Começaremos com exemplos de títulos em tamanhos diferentes utilizando o #:
+# Manual HTML
+### Estudos e materiais em HTML e CSS3
+
+#### Abordaremos aqui algumas funcionalidades do código HTML, demonstrando alguns usos e testando diferentes formatos e aplicações dessa Linguagem de Marcação de Hipertexto dentro do GitHub.<br/><br/>
+Começaremos com exemplos de <strong>títulos</strong> em tamanhos diferentes utilizando o #:
 # título com 1# #
 ## título com 2## ##
 ### título com 3### ###
 #### título com 4#### ####
 ##### título com 5##### #####
 ###### título com 6###### ######
+<br/>
+<blockquote><br/>
+Observa-se acima que o 1 e o 2 criam uma linha após o título, e que a partir de 5 # não há mais alterações no tamanho das letras.<br/>
+->Neste BLOCKQUOTE (< blockquote >) podemos dar destaque em uma parte do texto. <br/><br/>
 
-<blockquote>
-Observa-se acima que o 1 e o 2 criam uma linha após o título, e que a partir de 5 # não há mais alterações no tamanho das letras.
+(->codigo basico de cor de texto nao funciona no github < span style='color: lime' >)</span><br/>
 </blockquote>
 <head>
 Aqui começamos a cabeça da página:<br/>
